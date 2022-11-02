@@ -56,3 +56,9 @@ React, JavaScript, HTML, CSS, MySQL
 <br />
 
 ### 서비스 화면 및 산출물
+---
+**[ERD]**
+![그림1](https://user-images.githubusercontent.com/93175798/199518071-5d612c18-ea2a-4603-aaa3-db83e4f1fed7.png)
+
+<br />
+
