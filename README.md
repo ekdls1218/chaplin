@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Chaplin
+### 챗봇으로 여행지를 추천 받을 수 있는 여행 플래너
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
 
-## Available Scripts
+### 주요 기능
+---
+- **[일정계획]**
+    - 여행일정을 계획하기 위해 여행을 가고 싶은 **지역과 날짜를 선택** 후 검색 목록에서 **목적지를 검색**하고 **추가 및 삭제**하여 내 일정을 계획  
+     
+- **[여행지 추천 챗봇]**
+    - **지역**, **테마**, **동행인**, **교통 약자**에 대한 **질문에 답**을 한 후 챗봇이 추천해주는 여행지를 기반으로 **여행 일정을 계획할 건지 선택**
 
-In the project directory, you can run:
+<br />
 
-### `npm start`
+### 제작 기간
+---
+- 2022.03 ~ 2022.11  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br />
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 담당 역할
+---
+Front-End, DB 설계 및 구축
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 사용 기술
+---
+React, JavaScript, HTML, CSS, MySQL
 
-### `npm run eject`
+<br />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 담당 기능
+---
+- **DB(MySQL) 설계 및 구축**
+    - 요구사항 분석
+    - ERD 작성
+    - 테이블 설계 및 구축
+- **프론트엔드 (React) - 진행중**
+    - **일정 계획 페이지 기능 구현**
+        - 지역 선택 기능
+        - 날짜 선택 및 일차 생성 기능 - DatePicker, Dates
+        - 지도 검색 및 목록 불러오기 기능 - 카카오 맵 API
+        - 목적지 추가, 삭제 및 일정 저장 기능
+    - **마이페이지 기능 구현(진행중)**
+        - 일정 확인, 수정, 삭제 기능
+        - 프로필 확인, 수정 기능
+    - **챗봇 기능 구현(진행중)**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 서비스 화면 및 산출물
