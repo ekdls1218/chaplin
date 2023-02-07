@@ -48,20 +48,17 @@ React, JavaScript, HTML, CSS, MySQL
         - 날짜 선택 및 일차 생성 기능 - DatePicker, Dates
         - 지도 검색 및 목록 불러오기 기능 - 카카오 맵 API
         - 목적지 추가, 삭제 및 일정 저장 기능
-    - **마이페이지 기능 구현(진행중)**
-        - 일정 확인, 수정, 삭제 기능
-        - 프로필 확인, 수정 기능
-    - **챗봇 기능 구현(진행중)**
 
 <br />
 
 ### 서비스 화면 및 산출물
 ---
 **[ERD]**
-![그림1](https://user-images.githubusercontent.com/93175798/199518071-5d612c18-ea2a-4603-aaa3-db83e4f1fed7.png)
+![KakaoTalk_20221122_203055802](https://user-images.githubusercontent.com/93175798/217175482-1fa3810f-fed0-49d6-ab34-0b958bfa27c3.png)
 
 <br />
 
 **[서비스 화면 - 일정계획]**
-
-**[서비스 화면 - 챗봇]**
+|**PC**|**Mobile**|
+|--|------|
+|<img src="https://user-images.githubusercontent.com/93175798/217175741-8a8b5216-0332-47b3-bf27-975160b9d279.png">|<img src="https://user-images.githubusercontent.com/93175798/217175680-e1ae0a1c-5798-48cd-a3d5-6abb9da55911.png">|
